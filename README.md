@@ -1,15 +1,15 @@
-Project 6
+Project 7
 ==============================
 
-Anomaly detection on tweets tagging Google over a three month time-period.
+Storytelling with a dataset from previous project.
 
 Project Organization
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data               <- contains the Twitter_volume_GOOG.csv file which holds a timestamp an tweet number in 5 minute intervals.
+    ├── data               <- 
     │
-    ├── notebooks          <- contains notebook "Project 6 - Anomaly Detection"
+    ├── notebooks          <- contains notebook "Project 7 - Anomaly Detection"
     │                        
     │                         
 
