@@ -1,15 +1,15 @@
 Project 7
 ==============================
 
-Storytelling with a dataset from previous project.
+Using compelling visuals to unlock new meaning and to further explore the MLB dataset from Project 4.
 
 Project Organization
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data               <- 
+    ├── data               <- contains data from the MLB data set.
     │
-    ├── notebooks          <- contains notebook "Project 7 - Anomaly Detection"
+    ├── notebooks          <- contains notebook "Project 7 - Storytelling and Visualization"
     │                        
     │                         
 
